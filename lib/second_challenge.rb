@@ -32,7 +32,9 @@ def second_challenge
         :age =>"15"
         :status =>"alive"},
       :heroine_friends => []
-      }}
+      }
+    
+  }
 
   
 end
