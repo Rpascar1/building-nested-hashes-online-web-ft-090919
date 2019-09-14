@@ -14,7 +14,7 @@ def second_challenge
         :age => "15",
         :status => "alive"
       },
-      :hero_friends => [{:name => "Steven" , :age =>"30" ,:attitude =>"confused" }, {:name => , :age =>, :attitude => }]
+      :hero_friends => [{:name => "Benvolio" , :age =>"" ,:attitude =>"confused" }, {:name =>"Nurse" , :age =>"44", :attitude =>"Worried" }]
     }, 
       :capulet => {
       #your key/value pairs here!
@@ -31,7 +31,7 @@ def second_challenge
           :age =>"15",
           :status =>"alive"
        },
-      :heroine_friends => [{:name =>, :age =>,:attitude =>},{:name =>, :age =>,:attitude =>}]
+      :heroine_friends => [{:name => "Steven" , :age =>"30" ,:attitude =>"confused" }, {:name =>"Nurse" , :age =>"44", :attitude =>"Worried" }]
     }
     
   }
