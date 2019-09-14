@@ -3,42 +3,38 @@ def second_challenge
     :montague =>  {
       #your key/value pairs here!
         :patriarch => {
-        :name =>"Lord Montague",
-        :age => "53"},
+        :name =>"Lord Montague"
+        :age => "53"
+      },
       :matriarch => {
-        :name =>"Lady Montague",
+        :name =>"Lady Montague"
         :age => "54"
       },
       :hero => {
-        :name => "Romeo",
-        :age => "15",
+        :name => "Romeo"
+        :age => "15"
         :status => "alive"
       },
-      :hero_friends => [
-        {:name => "Benvolio" , :age =>"17" ,:attitude =>"worried" }, 
-        {:name =>"Mercutio" , :age =>"18", :attitude =>"hot-headed" }
-        ]
+      :hero_friends => []
     }, 
       :capulet => {
       #your key/value pairs here!
         :patriarch => {
-          :name =>"Lord Capulet",
+          :name =>"Lord Capulet"
           :age =>"50"
       },
         :matriarch => {
-          :name =>"Lady Capulet",
+          :name =>"Lady Capulet"
           :age =>"51"
       },
        :heroine => {
-          :name =>"Juliet",
-          :age =>"15",
+          :name =>"Juliet"
+          :age =>"15"
           :status =>"alive"
        },
-      :heroine_friends => [
-        {:name => "Steven" , :age =>"30" ,:attitude =>"confused" }, 
-        {:name =>"Nurse" , :age =>"44", :attitude =>"Worried" }
-        ]
+      :heroine_friends => []
     }
+    
   }
 
   
