@@ -12,7 +12,11 @@ def second_challenge
         :age =>
         
       },
-      :hero => {},
+      :hero => {
+        :name =>
+        :age =>
+        :status =>
+      },
       :hero_friends => []
       }, 
     :capulet => {
